@@ -13,7 +13,8 @@
 - MATLAB
 - Latex
 - Linux
-- VS Code
+- Visual Studio Code
+- Microsoft Visual Studio
 - Eclipse
 - Figma
 - Overleaf
